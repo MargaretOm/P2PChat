@@ -1,0 +1,14 @@
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\bin\Debug\P2P.exe.config
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\bin\Debug\P2P.exe
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\bin\Debug\P2P.pdb
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\obj\Debug\P2P.csprojAssemblyReference.cache
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\obj\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\obj\Debug\P2P.exe
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\P2P\obj\Debug\P2P.pdb
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\bin\Debug\P2P.exe.config
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\bin\Debug\P2P.exe
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\bin\Debug\P2P.pdb
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\obj\Debug\P2P.csprojAssemblyReference.cache
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\obj\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\obj\Debug\P2P.exe
+D:\work\Марго материалы\4 сем\КСиС\LR3\P2P\P2P\obj\Debug\P2P.pdb
